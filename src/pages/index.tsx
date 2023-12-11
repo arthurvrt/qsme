@@ -39,6 +39,7 @@ export default function Home() {
               <div className="text-lg">
                 Learn more about Create T3 App, the libraries it uses, and how
                 to deploy it.
+                Test signing
               </div>
             </Link>
           </div>
